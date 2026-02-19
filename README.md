@@ -5,9 +5,11 @@ I recently completed a SQL homework project from a Udemy course, which consisted
 Below are the six tasks that were completed as part of this SQL project:
 
 **1. Created all tables required for the homework and populated them with the test data** 
-  
-    They are : user, product, purchase, role, and purchase_product
 
-https://github.com/humairaaryantik-portofolio/humairaaryantik.github.io/blob/7ca93183b83ce295dfad7c240a74105ba6d77366/TABLE-TABLE.sql
-    
+  They are : user, product, purchase, role, and purchase_product
+### SQL Syntax 
+[https://github.com/humairaaryantik-portofolio/humairaaryantik.github.io/blob/7ca93183b83ce295dfad7c240a74105ba6d77366/TABLE-TABLE.sql]
+
+### Result
+
   
