@@ -381,4 +381,9 @@ Or See SQL Syntax Task 6 [in Here](https://github.com/humairaaryantik-portofolio
 
 
 ## CREDIT 
+
+This project was inspired by learning materials and exercises from a Udemy course. The dataset and analysis process were modified and explored independently as part of my data analysis practice.
+
+Special thanks to the course instructors and the learning resources that helped me build this project.
+
 [Humaira Aryanti K](https://github.com)
