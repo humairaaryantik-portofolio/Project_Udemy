@@ -1,5 +1,6 @@
-![image alt]()
-<h1 align="center" = > UDEMY PROJECT HOMEWORK </h1>
+<p align="center">
+  <img src="https://github.com/humairaaryantik-portofolio/humairaaryantik.github.io/blob/0d1702bc6c0ca763cc23cf9cdaa4f847b89c757b/udemy.png" alt="image" width="200"/>
+</p><h1 align="center" = > PROJECT HOMEWORK </h1>
 
 I recently completed a SQL homework project from a Udemy course, which consisted of 2 comprehensive problems. These tasks were designed to strengthen my understanding of SQL fundamentals, including data querying, grouping, joins, and aggregation functions.
 
