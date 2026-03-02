@@ -379,8 +379,9 @@ Or See SQL Syntax Task 6 [in Here](https://github.com/humairaaryantik-portofolio
 |Yegor Hromov|	2519.78|
 |Vasyl Leonenko|	1123.10|
 
-
-## CREDIT 
+<h2 Sertificate of Completion
+	
+<h2 CREDIT 
 
 This project was inspired by learning materials and exercises from a Udemy course. The dataset and analysis process were modified and explored independently as part of my data analysis practice.
 
